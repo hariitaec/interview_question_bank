@@ -1,1 +1,6 @@
 
+[
+  {"id":"q1","title":"What is the difference between let, const, and var?","answer":"let is block-scoped and reassignable; const is block-scoped and cannot be reassigned; var is function-scoped.","category":"JavaScript","difficulty":"Easy","tags":["scope","basics"],"starred":true,"createdAt":"2026-09-01T10:00:00.000Z"},
+  {"id":"q2","title":"How does React reconciliation work?","answer":"React compares the previous and next virtual DOM trees and applies the smallest practical browser DOM updates.","category":"React","difficulty":"Medium","tags":["rendering","virtual-dom"],"starred":true,"createdAt":"2026-09-02T10:00:00.000Z"},
+  {"id":"q3","title":"When would you use a database index?","answer":"Use indexes for fields frequently filtered, joined, or sorted. They improve reads but add storage and write cost.","category":"Databases","difficulty":"Medium","tags":["sql","performance"],"starred":false,"createdAt":"2026-09-03T10:00:00.000Z"}
+]
